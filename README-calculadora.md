@@ -1,4 +1,3 @@
-este read me está bom?
 # Calculadora em C
 
 ## Descrição do Projeto:
