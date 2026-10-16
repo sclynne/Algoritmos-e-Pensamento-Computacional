@@ -36,7 +36,7 @@ A calculadora possui 20 operações:
 
 O programa também permite realizar várias operações consecutivas e encerrar a execução pela opção `0`.
 
-## Tecnologias e Bibliotecas implementadas:
+## Tecnologias e Bibliotecas ultilizadas:
 
 - **C:** linguagem utilizada no desenvolvimento.
 - **`stdio.h`:** entrada e saída de dados com `scanf()` e `printf()`.
