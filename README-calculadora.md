@@ -56,7 +56,7 @@ O programa também permite realizar várias operações consecutivas e encerrar 
 As operações estão organizadas em blocos dentro da função `main()`.
 
 
-## Como Compilar e Executar?
+## Como Executar?
 
 1. Acesse o [OnlineGDB](https://www.onlinegdb.com/online_c_compiler).
 2. Selecione a linguagem **C**.
