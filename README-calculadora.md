@@ -66,6 +66,18 @@ As operações estão organizadas em blocos dentro da função `main()`.
 O menu permite realizar diferentes operações matemáticas até que o usuário escolha a opção `0` para encerrar o programa.
 
 
+
+
+## Arquivo .gitignore
+
+O projeto utiliza um arquivo `.gitignore` para evitar
+o envio de arquivos temporários, configurações locais
+e arquivos desnecessários ao repositório.
+
+Isso ajuda a manter o projeto organizado.
+
+
+
 ## Identificação 
 
 - **Alunos:** Suellen Carolynne Queiroz dos Santos , Arthur Pierre , Anna clara e Rafael Eliaquim
