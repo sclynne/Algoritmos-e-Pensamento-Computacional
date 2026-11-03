@@ -1,0 +1,36 @@
+
+# Calculadora em C
+# Ignorar arquivos gerados durante a compilação
+
+# Arquivos executáveis
+*.exe
+*.out
+*.app
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Arquivos de depuração
+*.dSYM/
+*.pdb
+*.ilk
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+*~
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*.swp
+*.swo
